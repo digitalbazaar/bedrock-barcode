@@ -1,0 +1,32 @@
+{
+  "name": "bedrock-barcode",
+  "version": "0.0.1-0",
+  "description": "Bedrock barcode",
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/bedrock-barcode"
+  },
+  "keywords": [
+    "bedrock barcode"
+  ],
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "http://digitalbazaar.com"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/bedrock-barcode/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/bedrock-barcode",
+  "dependencies": {
+    "bwip-js": "^1.2.3"
+  },
+  "peerDependencies": {
+    "bedrock": "^1.0.0",
+    "bedrock-express": "^2.0.0"
+  },
+  "directories": {
+    "lib": "./lib"
+  }
+}
